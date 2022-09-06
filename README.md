@@ -27,7 +27,7 @@ The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the
 |City Names| Locations |Duration|
 |    ---   |    ---    |  ---   |
 |Vijayawada|Kanagadurgamma Temple|30minutes|
-|Vizag     |RK Beach   |   Day  |
+|Vizag     |RK Beach   |  A Day |
 |Hyderabad |Charminar  |  4hours|
 |Amaravathi|Undavalli Caves|1hour|
 * This table represents of 4 Cities with a Column names City Names,locations and how much time we can spend over there.
