@@ -42,7 +42,7 @@ The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the
 
 ---
 
-## How to open the link in new Window using HTML
+## Sample HTML Code
 
 > How to open link in a new window in HTML?
 
