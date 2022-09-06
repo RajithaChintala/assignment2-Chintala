@@ -39,3 +39,18 @@ The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the
 > Live as if you were to die tomorrow. Learn as if you were to live forever - ***Mahatma Gandhi***
 
 > Life is a Journey, not a Destination - ***Ralph Waldo Emerson***
+
+---
+
+## How to open the link in new Window using HTML
+
+> How to open link in a new window in HTML?
+
+<https://stackoverflow.com/questions/17711146/how-to-open-link-in-a-new-tab-in-html>
+
+```
+<a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>
+```
+
+<https://css-tricks.com/snippets/html/open-link-in-a-new-window/>
+
