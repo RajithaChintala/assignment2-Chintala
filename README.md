@@ -5,7 +5,7 @@
 
 The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the 20th-largest art museum in the world, measured by public gallery area. It contains **8,161 paintings** and more than **450,000 works of art**, making it one of the most comprehensive collections in the Americas.It was built almost entirely of ***brick and terracotta***, which was imported from England, with some stone about its base.
 
---------------------------------------------------------------------------------------------------------
+---
 
 ## Direction To Museum
 1. The nearest airport to Museum of Fine Arts is Boston Airport.
@@ -19,3 +19,15 @@ The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the
 * Boston Common
 
 [Link to Aboutme file](AboutMe.md)
+
+---
+
+## Locations to explore in Particular Cities
+
+|City Names| Locations |Duration|
+|    ---   |    ---    |  ---   |
+|Vijayawada|Kanagadurgamma Temple|30minutes|
+|Vizag     |RK Beach   |   Day  |
+|Hyderabad |Charminar  |  4hours|
+|Amaravathi|Undavalli Caves|1hour|
+* This table represents of 4 Cities with a Column names City Names,locations and how much time we can spend over there.
