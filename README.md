@@ -8,3 +8,6 @@ The **Museum of Fine Arts** is an art museum in Boston, Massachusetts. It is the
 --------------------------------------------------------------------------------------------------------                                    Direction To Airport
 The nearest airport to Museum of Fine Arts is Boston Airport.
 The distance between the airport and the museum is 6.2 miles via I-90 W and I-93 N which just takes 15mins drive from airport.
+
+Places to visit near to the Museum of Fine Arts are Isabella Stewart Gardner museum, Fenway Park, Boston Common.
+
